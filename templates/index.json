@@ -151,7 +151,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": true,
-        "liquid": "<div style=\"margin-top: -25px;\">\n<p style=\"font-family: 'Treat Yourself', serif; font-size: 20px; font-weight: 500; line-height: 1.4; color: #2c3e50; text-align: center; margin: 0; padding: 0; letter-spacing: 0.3px;\">\nTraumStitch hilft Ihrem Kind beim <span style=\"color: #728b; font-weight: 600;\">sanften Einschlafen</span> und reduziert natürlich nächtliche Unruhe.\n</p>\n</div>",
+        "liquid": "<div style=\"margin-top: -25px;\">\n<p style=\"font-family: 'Treat Yourself', serif; font-size: 20px; font-weight: 600; line-height: 1.25; color: #1a202c; text-align: center; margin: 0; padding: 0; letter-spacing: 0.4px;\">\n\"TraumStitch hilft Ihrem Kind beim <span style=\"color: #2563eb; font-weight: 700;\">sanften Einschlafen</span> und reduziert natürlich nächtliche Unruhe.\"\n</p>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
