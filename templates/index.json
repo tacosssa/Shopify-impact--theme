@@ -99,7 +99,7 @@
         "logo_VjCJx7": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo": "shopify://shop_images/RTL_DE_Logo_2021_orange_rot_blau.png",
             "logo_width": 120,
             "link": ""
           }
@@ -107,7 +107,7 @@
         "logo_xKzHrz": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/allure-logo.webp",
+            "logo": "shopify://shop_images/Stern-Logo_komplett_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -115,7 +115,7 @@
         "logo_8mhQ3P": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo.png",
+            "logo": "shopify://shop_images/Logo_Bild-de.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -142,6 +142,19 @@
         "heading_gradient": "",
         "logo_item_background": "#c5ddf9",
         "logo_item_border": ""
+      }
+    },
+    "custom_liquid_iKTLi8": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div style=\"margin-top: -25px;\">\n<p style=\"font-family: 'Treat Yourself', serif; font-size: 20px; font-weight: 500; line-height: 1.4; color: #2c3e50; text-align: center; margin: 0; padding: 0; letter-spacing: 0.3px;\">\nTraumStitch hilft Ihrem Kind beim <span style=\"color: #728b; font-weight: 600;\">sanften Einschlafen</span> und reduziert natürlich nächtliche Unruhe.\n</p>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "video_ey4wND": {
@@ -469,6 +482,7 @@
     "slideshow",
     "custom_liquid_M9bHBr",
     "logo_list_hqgFzr",
+    "custom_liquid_iKTLi8",
     "video_ey4wND",
     "image-with-text-overlay",
     "hot-spots",
