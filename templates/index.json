@@ -211,58 +211,20 @@
         "overlay_opacity": 0
       }
     },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "liquid_9yFeX7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n .traumstitch-title {\n   font-family: 'Inter', sans-serif;\n   font-size: 2rem;\n   font-weight: 700;\n   color: #34495e;\n   letter-spacing: 0.5px;\n   text-align: left;\n   margin: 15px 0;\n }\n\n .traumstitch-tm {\n   font-size: 0.35em;\n   vertical-align: super;\n   font-weight: normal;\n   margin-left: 3px;\n   opacity: 0.8;\n }\n\n @media (max-width: 768px) {\n   .traumstitch-title {\n     font-size: 1.5rem;\n   }\n }\n</style>\n\n<link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap\" rel=\"stylesheet\">\n\n<div class=\"traumstitch-title\">\n TraumStitch<span class=\"traumstitch-tm\">™</span>\n</div>"
           }
         },
         "badges": {
@@ -271,6 +233,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -318,8 +281,8 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
+        "liquid_9yFeX7",
         "badges",
         "price",
         "rating",
@@ -331,14 +294,14 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "traum-stitch",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
+        "mobile_media_size": "contained",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "#ffffff",
         "background_gradient": "",
@@ -408,7 +371,6 @@
     "video_ey4wND",
     "custom_liquid_Pwje4p",
     "image-with-text-overlay",
-    "multiple-images-with-text",
     "featured-product",
     "faq"
   ]
