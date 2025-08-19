@@ -37,9 +37,9 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Breathing_Buddy_-_Stitch_Lila.gif",
-            "mobile_image": "shopify://shop_images/ChatGPT_Image_19_aout_2025_a_05_26_59.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_image": "shopify://shop_images/Votre_texte_de_paragraphe_1.png",
+            "content_max_width": 500,
+            "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "",
@@ -63,7 +63,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "image_size": "sm",
+        "image_size": "md",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
