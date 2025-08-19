@@ -62,8 +62,8 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
+        "allow_transparent_header": false,
+        "image_size": "md",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
