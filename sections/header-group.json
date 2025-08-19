@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "KOSTENLOSER VERSAND",
             "url": ""
           }
         }
@@ -27,7 +27,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-base",
+        "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#728ba9",
