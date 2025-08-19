@@ -78,7 +78,7 @@
         "logo_FwFGXR": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_3b923b11-a209-4aa1-9960-1abf9295591b.png",
+            "logo": "shopify://shop_images/Disney__logo.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -127,7 +127,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#c5ddf9",
         "logo_item_border": ""
       }
     },
