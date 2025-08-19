@@ -79,7 +79,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "<head>\n <link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@600,700&display=swap\" rel=\"stylesheet\">\n</head>\n<div style=\"display: flex; justify-content: center; align-items: center; text-align: center; margin: 14px 0 1px 0;\">\n <h2 style=\"font-size: 2.0em; font-weight: 600; font-family: 'Poppins', sans-serif; color: #2d3748; margin: 0; line-height: 1.1;\">\n  Empfohlen von:\n </h2>\n</div>",
+        "liquid": "<head>\n <link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@600,700&display=swap\" rel=\"stylesheet\">\n</head>\n<div style=\"display: flex; justify-content: center; align-items: center; text-align: center; margin: 14px 0 1px 0;\">\n <h2 style=\"font-size: 1.7em; font-weight: 600; font-family: 'Poppins', sans-serif; color: #2d3748; margin: 0; line-height: 1.1;\">\n  Empfohlen von:\n </h2>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""

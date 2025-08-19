@@ -40,9 +40,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/allure-logo.webp",
-        "logo_max_width": 105,
-        "logo_mobile_max_width": 150,
+        "logo": "shopify://shop_images/SchlummerStitch_19.png",
+        "logo_max_width": 260,
+        "logo_mobile_max_width": 140,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
