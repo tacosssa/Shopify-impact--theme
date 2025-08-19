@@ -37,6 +37,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Breathing_Buddy_-_Stitch_Lila.gif",
+            "mobile_image": "shopify://shop_images/ChatGPT_Image_19_aout_2025_a_05_26_59.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -128,6 +129,31 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "video_ey4wND": {
+      "type": "video",
+      "blocks": {
+        "play_QWni9q": {
+          "type": "play",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_QWni9q"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/ZeniStitch.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "image-with-text-overlay": {
@@ -429,6 +455,7 @@
   "order": [
     "slideshow",
     "logo_list_hqgFzr",
+    "video_ey4wND",
     "image-with-text-overlay",
     "hot-spots",
     "multiple-images-with-text",
