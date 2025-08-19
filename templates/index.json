@@ -211,6 +211,31 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_JQMwQ8": {
+      "type": "rich-text",
+      "blocks": {
+        "image_qHJBwe": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "image_qHJBwe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "content_width": "large",
+        "text_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -225,6 +250,12 @@
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n .traumstitch-title {\n   font-family: 'Inter', sans-serif;\n   font-size: 1.6rem;\n   font-weight: 700;\n   color: #34495e;\n   letter-spacing: 0.5px;\n   text-align: left;\n   margin: 15px 0;\n }\n\n .traumstitch-tm {\n   font-size: 0.45em;\n   vertical-align: super;\n   font-weight: normal;\n   margin-left: 3px;\n   opacity: 0.8;\n }\n\n @media (max-width: 768px) {\n   .traumstitch-title {\n     font-size: 1.2rem;\n   }\n }\n</style>\n\n<link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap\" rel=\"stylesheet\">\n\n<div class=\"traumstitch-title\">\n TraumStitch<span class=\"traumstitch-tm\">™</span>\n</div>"
+          }
+        },
+        "liquid_LURNic": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Hohe Nachfrage - Nur noch 4 Stück auf Lager</div>\n</div>"
           }
         },
         "badges": {
@@ -295,6 +326,7 @@
       "block_order": [
         "title",
         "liquid_9yFeX7",
+        "liquid_LURNic",
         "badges",
         "price",
         "rating",
@@ -385,6 +417,7 @@
     "video_ey4wND",
     "custom_liquid_Pwje4p",
     "image-with-text-overlay",
+    "rich_text_JQMwQ8",
     "featured-product",
     "faq"
   ]
