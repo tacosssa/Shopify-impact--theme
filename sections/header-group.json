@@ -20,10 +20,26 @@
             "text": "KOSTENLOSER VERSAND",
             "url": ""
           }
+        },
+        "message_xn4e7W": {
+          "type": "message",
+          "settings": {
+            "text": "VORRAT FAST AUSVERKAUFT",
+            "url": ""
+          }
+        },
+        "message_zUB9dR": {
+          "type": "message",
+          "settings": {
+            "text": "LIMITIERTES HOCHSAISON-ANGEBOT – 50 % RABATT",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_xn4e7W",
+        "message_zUB9dR"
       ],
       "settings": {
         "enable_sticky": false,
