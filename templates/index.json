@@ -226,6 +226,7 @@
       "block_order": [
         "image_qHJBwe"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": false,
