@@ -621,29 +621,53 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Ab welchem Alter kann man TraumStitch™ verwenden?",
+            "content": "<p>TraumStitch™ ist ab der Geburt geeignet, unter elterlicher Aufsicht. Er ist aus ultra-weichen und sicheren Materialien für die Kleinsten gefertigt.</p><p></p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Wie funktioniert die \"Atmungs\"-Funktion?",
+            "content": "<p>TraumStitch simuliert eine sanfte und regelmäßige Atembewegung, die die menschliche Atmung nachahmt, um das Kind natürlich zu beruhigen und das Einschlafen zu fördern.</p>"
+          }
+        },
+        "item_RRVwJY": {
+          "type": "item",
+          "settings": {
+            "title": "Wie lange dauert die integrierte Melodie?",
+            "content": "<p>Die Melodie spielt etwa 20 Minuten. Sie ist speziell ausgewählt, um schrittweise zu entspannen und zu beruhigen.</p>"
+          }
+        },
+        "item_YTr8dF": {
+          "type": "item",
+          "settings": {
+            "title": "Braucht er Batterien?",
+            "content": "<p>Ja, TraumStitch funktioniert mit 3 AAA-Batterien. Das Batteriefach ist gesichert und im Inneren des Spielzeugs versteckt.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Ist er für Kinder geeignet, die alleine schlafen?",
+            "content": "<p>Absolut. TraumStitch™ hilft Kindern, sich sicher und geborgen zu fühlen, auch ohne die unmittelbare Anwesenheit der Eltern.</p>"
+          }
+        },
+        "item_3jywJV": {
+          "type": "item",
+          "settings": {
+            "title": "Ist er auch für Erwachsene nützlich?",
+            "content": "<p>Ja! Viele Erwachsene nutzen ihn zum Stressabbau, zur Einschlafhilfe oder einfach als Entspannungsritual.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_RRVwJY",
+        "item_YTr8dF",
+        "166442457738b23caf-2",
+        "item_3jywJV"
       ],
       "settings": {
         "full_width": false,
@@ -651,8 +675,8 @@
         "title": "Häufig gestellte Fragen",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Unser Kundenservice steht Ihnen zur Verfügung von: Montag bis Samstag, 09:00 bis 18:00 Uhr",
+        "answer_time": "Wir antworten in der Regel innerhalb von 24 St",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
