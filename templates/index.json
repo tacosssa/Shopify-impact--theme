@@ -448,19 +448,6 @@
     "multi_column_BdL6e7": {
       "type": "multi-column",
       "blocks": {
-        "item_t7xFhm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Bilal_El_Ayadi_Create_a_realistic__lifestyle-style_photo_of_the_glowing_plush_to_d23ea750-c50d-43fc-9b1b-745a0a4fbc84.png",
-            "column_size": "3",
-            "title": "Anna M. ⭐⭐⭐⭐⭐",
-            "heading_tag": "h4",
-            "content": "<p>Mein Sohn schläft jetzt endlich durch! Das warme Licht ist so beruhigend und Stitch ist sein neuer bester Freund.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_WyBFTi": {
           "type": "item",
           "settings": {
@@ -487,6 +474,19 @@
             "link_style": "link"
           }
         },
+        "item_t7xFhm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Bilal_El_Ayadi_Create_a_realistic__lifestyle-style_photo_of_the_glowing_plush_to_d23ea750-c50d-43fc-9b1b-745a0a4fbc84.png",
+            "column_size": "3",
+            "title": "Anna M. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Mein Sohn schläft jetzt endlich durch! Das warme Licht ist so beruhigend und Stitch ist sein neuer bester Freund.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_ff9xy3": {
           "type": "item",
           "settings": {
@@ -502,9 +502,9 @@
         }
       },
       "block_order": [
-        "item_t7xFhm",
         "item_WyBFTi",
         "item_3gDy9q",
+        "item_t7xFhm",
         "item_ff9xy3"
       ],
       "name": "Multi-column",
