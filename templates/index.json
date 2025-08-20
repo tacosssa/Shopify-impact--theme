@@ -316,6 +316,12 @@
             "collapse_content": false
           }
         },
+        "kaching_bundles_app_block_VNDgeH": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "variant-picker": {
           "type": "variant_picker",
           "settings": {
@@ -368,6 +374,7 @@
         "rating",
         "separator",
         "description",
+        "kaching_bundles_app_block_VNDgeH",
         "variant-picker",
         "quantity-selector",
         "liquid_r88iHw",
