@@ -37,7 +37,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "30 TAGE GELD-ZURÜCK-GARANTIE",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "content": ""
           }
         },
         "discount": {
@@ -50,7 +50,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "24/7 KUNDENSUPPORT",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "content": ""
           }
         },
         "payment": {
@@ -63,7 +63,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "SICHERER KAUF AUF RECHNUNG",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "content": ""
           }
         }
       },
