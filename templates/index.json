@@ -322,12 +322,12 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "image_3P69fj": {
+        "image_gqQYcA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/14_99_Gratis.png",
+            "image": "shopify://shop_images/14_99_offert.png",
             "alignment": "center",
-            "max_width": 330
+            "max_width": 300
           }
         },
         "variant-picker": {
@@ -390,7 +390,7 @@
         "separator",
         "description",
         "kaching_bundles_app_block_VNDgeH",
-        "image_3P69fj",
+        "image_gqQYcA",
         "variant-picker",
         "quantity-selector",
         "liquid_r88iHw",
