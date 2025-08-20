@@ -416,6 +416,82 @@
         "input_text_color": ""
       }
     },
+    "multi_column_BdL6e7": {
+      "type": "multi-column",
+      "blocks": {
+        "item_t7xFhm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Bilal_El_Ayadi_Create_a_realistic__lifestyle-style_photo_of_the_glowing_plush_to_d23ea750-c50d-43fc-9b1b-745a0a4fbc84.png",
+            "column_size": "3",
+            "title": "Anna M. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Mein Sohn schläft jetzt endlich durch! Das warme Licht ist so beruhigend und Stitch ist sein neuer bester Freund.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WyBFTi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Bilal_El_Ayadi_Create_a_realistic__lifestyle-style_photo_of_the_plush_toy__ZeniS_98f512d0-a1cb-4696-ba8d-276772f832fa.png",
+            "column_size": "3",
+            "title": "Petra S. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Meine Tochter nimmt Stitch überall mit hin! Das Licht hilft ihr beim Einschlafen und sie liebt die weiche Textur.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3gDy9q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-20_a_21.43.54_6f77da3a.jpg",
+            "column_size": "3",
+            "title": "Nicole B.⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Super süß und funktional! Die Beleuchtung ist angenehm und nicht zu hell. Klare Kaufempfehlung!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ff9xy3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5a747bba-cbb6-4d11-be0a-a6dc178751a7.jpg",
+            "column_size": "3",
+            "title": "Katrin L. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Mein Neffe ist begeistert! Das warme Licht macht das Kinderzimmer so gemütlich und Stitch ist einfach zum Verlieben.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_t7xFhm",
+        "item_WyBFTi",
+        "item_3gDy9q",
+        "item_ff9xy3"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -479,6 +555,7 @@
     "image-with-text-overlay",
     "rich_text_JQMwQ8",
     "featured-product",
+    "multi_column_BdL6e7",
     "faq"
   ]
 }
