@@ -561,6 +561,33 @@
         "text_color": ""
       }
     },
+    "hot_spots_NVT7Ja": {
+      "type": "hot-spots",
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/5_Modi_-_1_Ziel_Besserer_Schlaf.png",
+        "mobile_image": "shopify://shop_images/5_Modi_-_1_Ziel_Besserer_Schlaf.png",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 0,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -591,6 +618,7 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",
@@ -629,6 +657,7 @@
     "video_rQJwaT",
     "custom_liquid_mLDPgC",
     "rich_text_Qrz6h3",
+    "hot_spots_NVT7Ja",
     "faq"
   ]
 }
