@@ -536,6 +536,31 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_mLDPgC": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"\n  font-family: Arial, sans-serif;\n  font-size: 16px;\n  line-height: 1.4;\n  color: #333;\n  text-align: center;\n  margin: 30px 20px;\n  max-width: 600px;\n  margin-left: auto;\n  margin-right: auto;\n\">\n  <p style=\"margin-bottom: 20px;\">\n    <strong>TraumStitch</strong> ahmt sanft die Atmung nach, strahlt ein <strong>beruhigendes Licht</strong> aus und spielt <strong>entspannende Melodien</strong>.\n  </p>\n  \n  <p style=\"margin-bottom: 10px; font-size: 20px; color: #2c5aa0;\">\n    <strong>Nie wieder schlaflose Nächte.</strong>\n  </p>\n  \n  <p style=\"margin: 0;\">\n    Ein neues Einschlafritual für <strong>tiefen Schlaf</strong> und <strong>süße Träume</strong>.\n  </p>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_Qrz6h3": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -602,6 +627,8 @@
     "custom_liquid_dnRc8x",
     "multi_column_BdL6e7",
     "video_rQJwaT",
+    "custom_liquid_mLDPgC",
+    "rich_text_Qrz6h3",
     "faq"
   ]
 }
