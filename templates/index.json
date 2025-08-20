@@ -246,6 +246,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_6kD44t": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Social Proof Section</title>\n</head>\n<body>\n\n<div class=\"traumstitch-review-compact\">\n  <div class=\"traumstitch-review-container\">\n    <div class=\"traumstitch-review-header\">\n      <div class=\"traumstitch-avatars-group\">\n        <div class=\"traumstitch-avatar-1\"></div>\n        <div class=\"traumstitch-avatar-2\"></div>\n      </div>\n      <div class=\"traumstitch-review-content\">\n        <div class=\"traumstitch-review-text\">\n          <strong>Petra, Klaus und <span class=\"traumstitch-number\">+18 000</span> deutsche Familien</strong> vertrauen TraumStitch für <strong>ruhige Nächte</strong>.\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n\n<style>\n.traumstitch-review-compact {\n  background: #ffffff;\n  padding: 0px;\n  margin: 0px;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n}\n.traumstitch-review-container {\n  max-width: 600px;\n  margin: 0 auto;\n  padding: 0px;\n}\n.traumstitch-review-header {\n  display: flex;\n  gap: 8px;\n  align-items: flex-start;\n}\n.traumstitch-avatars-group {\n  display: flex;\n  flex-shrink: 0;\n  position: relative;\n  left: -10px;\n}\n.traumstitch-avatar-1 {\n  width: 48px;\n  height: 48px;\n  border-radius: 50%;\n  background: url('https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face') center/cover;\n  flex-shrink: 0;\n  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);\n}\n.traumstitch-avatar-2 {\n  width: 48px;\n  height: 48px;\n  border-radius: 50%;\n  background: url('https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face') center/cover;\n  flex-shrink: 0;\n  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);\n  margin-left: -8px;\n}\n.traumstitch-review-content {\n  flex: 1;\n}\n.traumstitch-review-text {\n  font-size: 13px;\n  line-height: 1.25;\n  color: #2c3e50;\n  font-weight: 400;\n}\n.traumstitch-number {\n  color: #27ae60;\n  font-weight: 700;\n}\n/* Responsive */\n@media (max-width: 768px) {\n  .traumstitch-review-header {\n    gap: 12px;\n  }\n  \n  .traumstitch-avatar-1,\n  .traumstitch-avatar-2 {\n    width: 40px;\n    height: 40px;\n  }\n  \n  .traumstitch-review-text {\n    font-size: 15px;\n  }\n}\n</style>\n\n</body>\n</html>"
+          }
+        },
         "liquid_LkqGWD": {
           "type": "liquid",
           "settings": {
@@ -337,6 +343,7 @@
       },
       "block_order": [
         "title",
+        "liquid_6kD44t",
         "liquid_LkqGWD",
         "liquid_9yFeX7",
         "liquid_LURNic",
