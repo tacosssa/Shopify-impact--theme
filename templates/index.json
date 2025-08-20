@@ -521,6 +521,21 @@
         "text_color": ""
       }
     },
+    "video_rQJwaT": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/ZeniStitch-01.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -586,6 +601,7 @@
     "featured-product",
     "custom_liquid_dnRc8x",
     "multi_column_BdL6e7",
+    "video_rQJwaT",
     "faq"
   ]
 }
