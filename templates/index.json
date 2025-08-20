@@ -277,16 +277,16 @@
             "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.8</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 13px; color: #555;\">(878 Bewertungen)</span> <!-- Taille réduite -->\n    </a>\n    <p style=\"font-size: 14px; color: #777; margin-top: 2px; margin-bottom: 0;\">"
           }
         },
-        "liquid_LURNic": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Hohe Nachfrage - Nur noch 4 Stück auf Lager</div>\n</div>"
-          }
-        },
         "liquid_jfDaHk": {
           "type": "liquid",
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>TraumStitch Benefits - Style Concurrent</title>\n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            padding: 0;\n            margin: 0;\n            line-height: 1.5;\n        }\n\n        .benefits-container {\n            padding: 0;\n        }\n\n        .benefit-item {\n            display: flex;\n            align-items: center; /* Assure que l'icône et le texte sont bien alignés */\n            margin: 12px 0;\n            padding: 0;\n        }\n\n        .benefit-icon {\n            width: 24px;\n            height: 24px;\n            border-radius: 50%;\n            background: #7fb3d3;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            margin-right: 15px;\n            flex-shrink: 0;\n            margin-top: 2px;\n        }\n\n        .benefit-icon::after {\n            content: \"✓\";\n            color: white;\n            font-weight: bold;\n            font-size: 14px;\n        }\n\n        .benefit-text {\n            font-size: 14px; /* Taille du texte réduite */\n            color: #2c3e50;\n            font-weight: 400;\n        }\n\n        .benefit-bold {\n            font-weight: 700;\n            color: #34495e;\n            font-size: 16px; /* Taille du texte en gras légèrement plus grande */\n        }\n\n        .title {\n            display: none;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"benefits-container\">\n        <div class=\"title\">TraumStitch™ Vorteile</div>\n        \n        <div class=\"benefit-item\">\n            <div class=\"benefit-icon\"></div>\n            <div class=\"benefit-text\">Ein sanftes Design, <span class=\"benefit-bold\">weich und beruhigend</span>.</div>\n        </div>\n\n        <div class=\"benefit-item\">\n            <div class=\"benefit-icon\"></div>\n            <div class=\"benefit-text\">Entspannt durch seine <span class=\"benefit-bold\">Atmung</span> und seine <span class=\"benefit-bold\">beruhigende Melodie</span>.</div>\n        </div>\n\n        <div class=\"benefit-item\">\n            <div class=\"benefit-icon\"></div>\n            <div class=\"benefit-text\">Erleichtert das <span class=\"benefit-bold\">Einschlafen in wenigen Minuten</span>.</div>\n        </div>\n\n        <div class=\"benefit-item\">\n            <div class=\"benefit-icon\"></div>\n            <div class=\"benefit-text\">Ein <span class=\"benefit-bold\">entspannendes Abendritual</span> für Klein und Groß.</div>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_LURNic": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Hohe Nachfrage - Nur noch 4 Stück auf Lager</div>\n</div>"
           }
         },
         "badges": {
@@ -324,6 +324,7 @@
         },
         "variant-picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -367,8 +368,8 @@
         "liquid_6GPmi3",
         "liquid_c3qMhz",
         "liquid_9yFeX7",
-        "liquid_LURNic",
         "liquid_jfDaHk",
+        "liquid_LURNic",
         "badges",
         "price",
         "rating",
