@@ -19,8 +19,15 @@
         },
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "liquid_W3m7rg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-family: Arial, sans-serif; max-width: 300px;\">\n  <!-- Titre -->\n  <div style=\"font-size: 28px; font-weight: bold; color: #000; margin: 0; padding: 0; line-height: 1; margin-bottom: 8px;\">\n    TraumStitch<span style=\"font-size: 12px; vertical-align: top;\">™</span>\n  </div>\n\n  <!-- Encart gris parfaitement collé -->\n  <div style=\"background-color: #f5f5f5; padding: 6px 10px; text-align: center; border-radius: 8px; margin: 0; line-height: 1;\">\n    <span style=\"font-size: 14px; font-weight: bold; color: #333; letter-spacing: 0.5px;\">\n      #1 LÖSUNG FÜR ERHOLSAMEN SCHLAF BEI KINDERN 2025 🇩🇪\n    </span>\n  </div>\n</div>"
           }
         },
         "badges": {
@@ -83,6 +90,7 @@
       "block_order": [
         "vendor",
         "title",
+        "liquid_W3m7rg",
         "badges",
         "price",
         "rating",
