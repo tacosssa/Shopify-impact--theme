@@ -326,6 +326,7 @@
         },
         "image_gqQYcA": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/1499_offert-vmake.jpg",
             "alignment": "center",
@@ -509,6 +510,7 @@
         "item_t7xFhm",
         "item_ff9xy3"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
