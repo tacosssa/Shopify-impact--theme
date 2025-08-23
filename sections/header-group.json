@@ -43,7 +43,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
+        "text_size": "text-xxs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#9ac1f2",
