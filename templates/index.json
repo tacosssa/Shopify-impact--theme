@@ -634,6 +634,7 @@
     },
     "hot_spots_nYhybY": {
       "type": "hot-spots",
+      "disabled": true,
       "name": "Hot spots",
       "settings": {
         "full_width": true,
