@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Votre_texte_de_paragraphe_1_53eca970-ab6b-4fb1-a04f-2601185483bf.png",
-            "mobile_image": "shopify://shop_images/Votre_texte_de_paragraphe_1.png",
+            "mobile_image": "shopify://shop_images/Stitch_product_page_1_1.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -634,6 +634,7 @@
     },
     "hot_spots_nYhybY": {
       "type": "hot-spots",
+      "disabled": true,
       "name": "Hot spots",
       "settings": {
         "full_width": true,
