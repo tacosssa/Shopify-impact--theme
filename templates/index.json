@@ -146,6 +146,7 @@
     },
     "custom_liquid_iKTLi8": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
